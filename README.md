@@ -13,7 +13,7 @@ Passionate about technology and problem-solving, I'm building my skills through 
 
 ## ⌨ GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-simoes&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ninhasimoes&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
 
 </td>
 
@@ -48,7 +48,7 @@ Passionate about technology and problem-solving, I'm building my skills through 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-sim%C3%B5es-362750350/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analuizasimoesslima/)
 
 ---
 
