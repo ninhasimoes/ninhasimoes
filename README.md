@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1ea66601f1ee09b578c40feee6ecd953.gif" width="500">
+  <img src="1ea66601f1ee09b578c40feee6ecd953.gif" width="900">
 </p>
 <h1 align="center"> ☾ Ana Luiza Simões | Information Systems Student </h1>
 
