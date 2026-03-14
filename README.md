@@ -8,7 +8,7 @@
 
 <td width="50%" valign="top">
 
-## ✦ About Me 
+## ✦ About Me
 
 Passionate about technology and innovation, always curious to learn new tools and continuously improving my skills in artificial intelligence, data, and software development.
 
