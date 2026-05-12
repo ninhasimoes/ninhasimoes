@@ -14,9 +14,9 @@
 
 <div align="center">
 
-<div style="display:flex; gap:60px; justify-content:center; flex-wrap:wrap;">
+<div style="display:flex; gap:60px; justify-content:center; flex-direction: row;">
 
-<div>
+<div style="display: flex; flex-direction: column;">
 
 ## Languages
 
@@ -34,7 +34,7 @@
 
 </div>
 
-<div>
+<div style="display: flex; flex-direction: column;">
 
 ## Creative space
 
