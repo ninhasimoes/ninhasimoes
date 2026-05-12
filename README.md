@@ -12,49 +12,7 @@
 
 </div>
 
-<div align="center">
-
-<div style="display:flex; gap:60px; justify-content:center; flex-direction: row;">
-
-<div style="display: flex; flex-direction: column;">
-
-## Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
-</p>
-
-<br>
-
-## Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
-</p>
-
-</div>
-
-<div style="display: flex; flex-direction: column;">
-
-## Creative space
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
-</p>
-
-<br>
-
-## Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
-</p>
-
-</div>
-
-</div>
-
-</div>
+<table align="center" style="border:none;"> <tr style="display: flex; flex-direction; gap: 3em"> <td width="65%" valign="top"> ## Languages <p> <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/> </p> ## Technologies <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/> </p> </td> <td width="35%" valign="top"> ## Creative space <p> <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/> </p> ## Learning <p> <img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/> </p> </td> </tr> </table>
 <br>
 
 ## Contribution Frequency
