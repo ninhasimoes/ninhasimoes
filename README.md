@@ -12,8 +12,8 @@
 
 </div>
 
-<table align="center">
-<tr style="display: flex; flex-direction; gap: 3em; border:none">
+<table align="center" style="border:none;">
+<tr style="display: flex; flex-direction; gap: 3em">
 
 <td width="65%" valign="top">
 
