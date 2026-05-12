@@ -12,24 +12,32 @@
 
 
 
-<!-- Seção: Languages -->
-<p align="left"><strong>Languages</strong></p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
-<hr>
-
-<!-- Seção: Technologies -->
-<p align="left"><strong>Technologies</strong></p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
-<hr>
-
-<!-- Seção: Creative space -->
-<p align="left"><strong>Creative space</strong></p>
-<img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
-<hr>
-
-<!-- Seção: Learning -->
-<p align="left"><strong>Learning</strong></p>
-<img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <!-- LINHA SUPERIOR -->
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <h4>Languages</h4>
+      <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
+      <hr style="margin-right: 20px;">
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h4>Creative Space</h4>
+      <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
+      <hr>
+    </td>
+  </tr>
+  <!-- LINHA INFERIOR -->
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <h4>Technologies</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h4>Learning</h4>
+      <img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
+    </td>
+  </tr>
+</table>
 
 
 ## Contribution Frequency
