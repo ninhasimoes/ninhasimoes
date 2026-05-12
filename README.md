@@ -10,10 +10,10 @@
 **`artificial intelligence`**
 **`backend development`**
 
-</div>
+
 
 <table align="center" style="border:none;"> <tr style="display: flex; flex-direction; gap: 3em"> <td width="65%" valign="top"> ## Languages <p> <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/> </p> ## Technologies <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/> </p> </td> <td width="35%" valign="top"> ## Creative space <p> <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/> </p> ## Learning <p> <img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/> </p> </td> </tr> </table>
-<br>
+
 
 ## Contribution Frequency
 
