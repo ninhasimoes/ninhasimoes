@@ -9,16 +9,48 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=18&duration=3000&pause=1000&color=CDB4DB&center=true&vCenter=true&width=500&lines=Building+creative+digital+experiences;Exploring+AI+and+backend+development;Information+Systems+student" />
+  <i>
+    building meaningful digital experiences through technology
+  </i>
 </p>
 
 ---
 
 ## ⊹ about
 
-```txt
-Passionate about technology, artificial intelligence
-and digital experiences.
+Computer Science & AI enthusiast focused on building creative digital solutions through software, data and design.
 
-Currently studying Information Systems and exploring
-backend development, data analytics and intelligent solutions.
+Currently studying Information Systems and exploring backend development, analytics and intelligent systems.
+
+---
+
+## ⊹ ecosystem
+
+### languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&perline=6"/>
+</p>
+
+### development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=6"/>
+</p>
+
+### creative tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,notion&perline=6"/>
+</p>
+
+---
+
+## ⊹ current focus
+
+```txt
+↳ backend engineering
+↳ artificial intelligence
+↳ data & analytics
+↳ software architecture
+↳ digital experiences
