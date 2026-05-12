@@ -12,10 +12,11 @@
 
 </div>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-<tr>
+<div align="center">
 
-<td width="65%" valign="top" style="border: none; padding-right: 40px;">
+<div style="display:flex; gap:60px; justify-content:center; flex-wrap:wrap;">
+
+<div>
 
 ## Languages
 
@@ -23,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
 </p>
 
----
+<br>
 
 ## Technologies
 
@@ -31,9 +32,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
 </p>
 
-</td>
+</div>
 
-<td width="35%" valign="top" style="border: none;">
+<div>
 
 ## Creative space
 
@@ -41,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
 </p>
 
----
+<br>
 
 ## Learning
 
@@ -49,10 +50,11 @@
   <img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
 </p>
 
-</td>
+</div>
 
-</tr>
-</table>
+</div>
+
+</div>
 <br>
 
 ## Contribution Frequency
