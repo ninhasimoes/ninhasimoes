@@ -12,38 +12,24 @@
 
 
 
-<table align="center" width="100%">
-  <!-- Linha de Títulos -->
-  <tr>
-    <td width="60%" valign="bottom">
-      <h3>💻 Languages & Technologies</h3>
-    </td>
-    <td width="40%" valign="bottom">
-      <h3>🎨 Creative & Learning</h3>
-    </td>
-  </tr>
-  <!-- Linha Divisória Fina -->
-  <tr>
-    <td colspan="2"><hr style="height:1px; border:none; color:#e1e4e8; background-color:#e1e4e8;"></td>
-  </tr>
-  <!-- Linha de Ícones -->
-  <tr>
-    <td valign="top">
-      <p>
-        <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark" height="40" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" height="40" />
-      </p>
-    </td>
-    <td valign="top">
-      <p>
-        <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark" height="40" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" height="40" />
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- Seção: Languages -->
+<p align="left"><strong>Languages</strong></p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
+<hr>
+
+<!-- Seção: Technologies -->
+<p align="left"><strong>Technologies</strong></p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
+<hr>
+
+<!-- Seção: Creative space -->
+<p align="left"><strong>Creative space</strong></p>
+<img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
+<hr>
+
+<!-- Seção: Learning -->
+<p align="left"><strong>Learning</strong></p>
+<img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
 
 
 ## Contribution Frequency
