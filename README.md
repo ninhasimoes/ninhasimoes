@@ -12,7 +12,38 @@
 
 
 
-<table align="center" style="border:none;"> <tr style="display: flex; flex-direction; gap: 3em"> <td width="65%" valign="top"> ## Languages <p> <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/> </p> ## Technologies <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/> </p> </td> <td width="35%" valign="top"> ## Creative space <p> <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/> </p> ## Learning <p> <img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/> </p> </td> </tr> </table>
+<table align="center" width="100%">
+  <!-- Linha de Títulos -->
+  <tr>
+    <td width="60%" valign="bottom">
+      <h3>💻 Languages & Technologies</h3>
+    </td>
+    <td width="40%" valign="bottom">
+      <h3>🎨 Creative & Learning</h3>
+    </td>
+  </tr>
+  <!-- Linha Divisória Fina -->
+  <tr>
+    <td colspan="2"><hr style="height:1px; border:none; color:#e1e4e8; background-color:#e1e4e8;"></td>
+  </tr>
+  <!-- Linha de Ícones -->
+  <tr>
+    <td valign="top">
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark" height="40" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" height="40" />
+      </p>
+    </td>
+    <td valign="top">
+      <p>
+        <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark" height="40" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" height="40" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 ## Contribution Frequency
