@@ -1,73 +1,74 @@
 <p align="center">
-  <img src="1ea66601f1ee09b578c40feee6ecd953.gif" width="100%">
+  <img src="1ea66601f1ee09b578c40feee6ecd953.gif" width="420px">
 </p>
 
-<h1 align="center">☾ Ana Luiza Simões</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=38&pause=999999&color=CDB4DB&center=true&vCenter=true&width=500&height=60&lines=Ana+Luiza+Simões" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&size=24&duration=3500&pause=800&color=CDB4DB&center=true&vCenter=true&width=700&lines=systems+student;building+intelligent+experiences;artificial+intelligence+•+backend+•+design" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ninhasimoes&label=commits+through+the+void&color=0d1117&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ninhasimoes&label=commits+through+the+void&color=1a1b27&style=flat"/>
 </p>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:CDB4DB&height=2&section=header"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
 ```txt
-initializing ana.exe ...
-
-▣ systems & technology
-▣ artificial intelligence
-▣ backend development
-▣ data experiences
-▣ digital creativity
-
-status → learning something new
+⌞ systems student building intelligent experiences through code ⌝
 ```
 
 </div>
 
----
-
-# ◌ digital ecosystem
+<br>
 
 <div align="center">
 
-### languages
+| interests | |
+|---|---|
+| ✦ artificial intelligence | ✦ backend engineering |
+| ✦ software development | ✦ data & analytics |
+| ✦ digital experiences | ✦ creative technology |
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
+</div>
 
-<br><br>
+<br>
 
-### technologies
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:CDB4DB,100:1a1b27&height=2&section=header"/>
 
-<br><br>
+</div>
+
+# ◌ technologies
+
+<table align="center">
+<tr>
+<td width="65%" align="center">
+
+### languages & technologies
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,idea&theme=dark"/>
+
+</td>
+
+<td width="35%" align="center">
 
 ### creative space
 
 <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
 
-</div>
-
----
-
-# ◌ currently exploring
-
-<div align="center">
-
-| focus | description |
-|---|---|
-| backend engineering | building structured systems |
-| artificial intelligence | creating intelligent solutions |
-| software architecture | understanding scalable systems |
-| analytics | transforming data into insights |
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -105,5 +106,5 @@ status → learning something new
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:CDB4DB&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:CDB4DB&height=120&section=footer"/>
 </p>
