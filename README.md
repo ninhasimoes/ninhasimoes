@@ -12,32 +12,26 @@
 
 
 
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <!-- LINHA SUPERIOR -->
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h4>Languages</h4>
-      <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
-      <hr style="margin-right: 20px;">
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h4>Creative Space</h4>
-      <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
-      <hr>
-    </td>
-  </tr>
-  <!-- LINHA INFERIOR -->
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h4>Technologies</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h4>Learning</h4>
-      <img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
-    </td>
-  </tr>
-</table>
+<!-- COLUNA DA ESQUERDA (Superior: Languages | Inferior: Technologies) -->
+<div align="left" style="display: inline-block; width: 45%; vertical-align: top;">
+  <p><strong>Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
+  <br><br>
+  <hr>
+  <p><strong>Technologies</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
+</div>
+<!-- ESPAÇADOR -->
+<div align="left" style="display: inline-block; width: 5%;"></div>
+<!-- COLUNA DA DIREITA (Superior: Creative Space | Inferior: Learning) -->
+<div align="left" style="display: inline-block; width: 45%; vertical-align: top;">
+  <p><strong>Creative space</strong></p>
+  <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
+  <br><br>
+  <hr>
+  <p><strong>Learning</strong></p>
+  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
+</div>
 
 
 ## Contribution Frequency
