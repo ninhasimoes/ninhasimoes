@@ -3,9 +3,13 @@
 </h1>
 
 <div align="center">
-  **`systems student`**
-  **`artificial intelligence`**
-  **`backend development`**
+
+**`systems student`**
+
+**`artificial intelligence`**
+
+**`backend development`**
+</div>
 
 
 <br/>
