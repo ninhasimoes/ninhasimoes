@@ -29,11 +29,9 @@
   <img height="48" src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 </p>
 
-<br>
 
 <hr style="border: 0.5px solid #30363d;">
 
-<br>
 
 <h2 align="left">Technologies</h2>
 
@@ -56,11 +54,9 @@
   <img height="48" src="https://skillicons.dev/icons?i=notion&theme=dark"/>
 </p>
 
-<br>
 
 <hr style="border: 0.5px solid #30363d;">
 
-<br>
 
 <h2 align="left">Learning</h2>
 
