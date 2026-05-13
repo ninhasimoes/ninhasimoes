@@ -11,10 +11,13 @@
 **`backend development`**
 
 
-<div align="left">
+
+<div align="center">
   
-  <h4>Tech Stack</h4>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,vscode,idea,figma,notion&theme=dark" />
+  <h4> Tech Stack</h4>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,idea,figma,notion&theme=dark" />
 
   <h4> Learning</h4>
   <img src="https://skillicons.dev/icons?i=python,pycharm&theme=dark" />
