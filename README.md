@@ -10,19 +10,21 @@
 **`artificial intelligence`**
 **`backend development`**
 
+<br>
 
 
 <div align="center">
   
-  <h4> Tech Stack</h4>
+  <h2> Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=github,vscode,idea,figma,notion&theme=dark" />
 
-  <h4> Learning</h4>
+  <h2> Learning</h2>
   <img src="https://skillicons.dev/icons?i=python,pycharm&theme=dark" />
 
 </div>
+
 
 ## Contribution Frequency
 
