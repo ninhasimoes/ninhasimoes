@@ -12,64 +12,52 @@
 
 
 <table width="100%" style="border-collapse: collapse; table-layout: fixed;">
-
-<tr>
-
-<!-- COLUNA ESQUERDA -->
-<td width="50%" valign="top" style="padding: 16px 24px 16px 0; border-right: 1px solid #30363d;">
-
-<h2 align="left">Languages</h2>
-
-<p align="left">
-  <img height="48" src="https://skillicons.dev/icons?i=java&theme=dark"/>
-  <img height="48" src="https://skillicons.dev/icons?i=python&theme=dark"/>
-  <img height="48" src="https://skillicons.dev/icons?i=js&theme=dark"/>
-  <img height="48" src="https://skillicons.dev/icons?i=html&theme=dark"/>
-  <img height="48" src="https://skillicons.dev/icons?i=css&theme=dark"/>
-  <img height="48" src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-</p>
-
-
-<hr style="border: 0.5px solid #30363d;">
-
-
-<h2 align="left">Technologies</h2>
-
-<p align="left">
-  <img height="48" src="https://skillicons.dev/icons?i=git&theme=dark"/>
-  <img height="48" src="https://skillicons.dev/icons?i=github&theme=dark"/>
-  <img height="48" src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
-  <img height="48" src="https://skillicons.dev/icons?i=idea&theme=dark"/>
-</p>
-
-</td>
-<!-- COLUNA DIREITA -->
-<td width="50%" valign="top" style="padding: 16px 0 16px 24px;">
-
-<h2 align="left">Creative space</h2>
-
-<p align="left">
-  <img height="48" src="https://skillicons.dev/icons?i=figma&theme=dark"/>
-  <img height="48" src="https://skillicons.dev/icons?i=notion&theme=dark"/>
-</p>
-
-
-<hr style="border: 0.1px solid #30363d;">
-
-
-<h2 align="left">Learning</h2>
-
-
-<p align="left">
-  <img height="48" src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
-</p>
-
-</td>
-
-</tr>
-
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px 24px 16px 0; border-right: 1px solid #30363d;">
+      <h2 align="left">Languages</h2>
+      <p align="left">
+        <img height="48" src="https://skillicons.dev/icons?i=java&theme=dark"/>
+        <img height="48" src="https://skillicons.dev/icons?i=python&theme=dark"/>
+        <img height="48" src="https://skillicons.dev/icons?i=js&theme=dark"/>
+        <img height="48" src="https://skillicons.dev/icons?i=html&theme=dark"/>
+        <img height="48" src="https://skillicons.dev/icons?i=css&theme=dark"/>
+        <img height="48" src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 16px 0 16px 24px;">
+      <h2 align="left">Creative space</h2>
+      <p align="left">
+        <img height="48" src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+        <img height="48" src="https://skillicons.dev/icons?i=notion&theme=dark"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="padding: 0 24px 0 0; border-right: 1px solid #30363d;">
+      <hr style="border: 0.5px solid #30363d; margin: 0;">
+    </td>
+    <td width="50%" style="padding: 0 0 0 24px;">
+      <hr style="border: 0.5px solid #30363d; margin: 0;">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px 24px 16px 0; border-right: 1px solid #30363d;">
+      <h2 align="left">Technologies</h2>
+      <p align="left">
+        <img height="48" src="https://skillicons.dev/icons?i=git&theme=dark"/>
+        <img height="48" src="https://skillicons.dev/icons?i=github&theme=dark"/>
+        <img height="48" src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
+        <img height="48" src="https://skillicons.dev/icons?i=idea&theme=dark"/>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 16px 0 16px 24px;">
+      <h2 align="left">Learning</h2>
+      <p align="left">
+        <img height="48" src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
+      </p>
+    </td>
+  </tr>
 </table>
-
 
 ## Contribution Frequency
 
