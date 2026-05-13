@@ -12,25 +12,42 @@
 
 
 
-<!-- COLUNA DA ESQUERDA (Superior: Languages | Inferior: Technologies) -->
-<div align="left" style="display: inline-block; width: 45%; vertical-align: top;">
-  <p><strong>Languages</strong></p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
-  <br><br>
-  <hr>
-  <p><strong>Technologies</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
-</div>
-<!-- ESPAÇADOR -->
-<div align="left" style="display: inline-block; width: 5%;"></div>
-<!-- COLUNA DA DIREITA (Superior: Creative Space | Inferior: Learning) -->
-<div align="left" style="display: inline-block; width: 45%; vertical-align: top;">
-  <p><strong>Creative space</strong></p>
-  <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
-  <br><br>
-  <hr>
-  <p><strong>Learning</strong></p>
-  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
+<div align="center">
+
+<table style="width:100%; border-collapse: collapse; border: none;">
+<tr style="border: none;">
+
+<td width="50%" valign="top" style="padding-right: 40px; border-right: 1px solid #2f3545;">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
+
+<br><br><br>
+
+<hr style="border: 0.5px solid #2f3545;">
+
+### Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
+
+</td>
+
+<td width="50%" valign="top" style="padding-left: 40px;">
+
+### Creative space
+<img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
+
+<br><br><br>
+
+<hr style="border: 0.5px solid #2f3545;">
+
+### Learning
+<img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
 
@@ -42,7 +59,6 @@
   />
 </p>
 
-<br>
 
 
 ## Github Archive
