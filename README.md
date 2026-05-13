@@ -43,7 +43,6 @@
 </p>
 
 </td>
-
 <!-- COLUNA DIREITA -->
 <td width="50%" valign="top" style="padding: 16px 0 16px 24px;">
 
