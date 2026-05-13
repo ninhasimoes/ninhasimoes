@@ -11,7 +11,7 @@
 **`backend development`**
 
 
-<<div align="center">
+<div align="left">
   
   <h4>Tech Stack</h4>
   <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,vscode,idea,figma,notion&theme=dark" />
