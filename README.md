@@ -54,10 +54,11 @@
 </p>
 
 
-<hr style="border: 0.5px solid #30363d;">
+<hr style="border: 0.1px solid #30363d;">
 
 
 <h2 align="left">Learning</h2>
+
 
 <p align="left">
   <img height="48" src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
