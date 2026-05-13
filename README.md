@@ -12,44 +12,76 @@
 
 
 
-<div align="center">
+<div style="
+display: flex;
+justify-content: space-between;
+gap: 80px;
+width: 100%;
+">
 
-<table style="width:100%; border-collapse: collapse; border: none;">
-<tr style="border: none;">
+<!-- ESQUERDA -->
+<div style="
+width: 50%;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+">
 
-<td width="50%" valign="top" style="padding-right: 40px; border-right: 1px solid #2f3545;">
+<div>
+<h3>Languages</h3>
 
-### Languages
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
+</div>
 
 <br><br><br>
 
-<hr style="border: 0.5px solid #2f3545;">
+<hr style="border: 0.5px solid #2f3545; width: 100%;">
 
-### Technologies
+<br>
+
+<div>
+<h3>Technologies</h3>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
-
-</td>
-
-<td width="50%" valign="top" style="padding-left: 40px;">
-
-### Creative space
-<img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
-
-<br><br><br>
-
-<hr style="border: 0.5px solid #2f3545;">
-
-### Learning
-<img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 </div>
 
+<!-- LINHA VERTICAL -->
+<div style="
+width: 1px;
+background-color: #2f3545;
+"></div>
+
+<!-- DIREITA -->
+<div style="
+width: 50%;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+">
+
+<div>
+<h3>Creative space</h3>
+
+<img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
+</div>
+
+<br><br><br>
+
+<hr style="border: 0.5px solid #2f3545; width: 100%;">
+
+<br>
+
+<div>
+<h3>Learning</h3>
+
+<img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
+</div>
+
+</div>
+
+</div>
 
 ## Contribution Frequency
 
