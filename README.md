@@ -11,17 +11,22 @@
 **`backend development`**
 
 
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%" style="border-collapse: collapse; table-layout: fixed;">
 
 <tr>
 
-<!-- ESQUERDA -->
-<td width="50%" valign="top" style="padding-right: 25px; border-right: 1px solid #30363d;">
+<!-- COLUNA ESQUERDA -->
+<td width="50%" valign="top" style="padding: 16px 24px 16px 0; border-right: 1px solid #30363d;">
 
-<h3 align="left">Languages</h3>
+<h2 align="left">Languages</h2>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark" />
+  <img height="48" src="https://skillicons.dev/icons?i=java&theme=dark"/>
+  <img height="48" src="https://skillicons.dev/icons?i=python&theme=dark"/>
+  <img height="48" src="https://skillicons.dev/icons?i=js&theme=dark"/>
+  <img height="48" src="https://skillicons.dev/icons?i=html&theme=dark"/>
+  <img height="48" src="https://skillicons.dev/icons?i=css&theme=dark"/>
+  <img height="48" src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 </p>
 
 <br>
@@ -30,21 +35,25 @@
 
 <br>
 
-<h3 align="left">Technologies</h3>
+<h2 align="left">Technologies</h2>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+  <img height="48" src="https://skillicons.dev/icons?i=git&theme=dark"/>
+  <img height="48" src="https://skillicons.dev/icons?i=github&theme=dark"/>
+  <img height="48" src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
+  <img height="48" src="https://skillicons.dev/icons?i=idea&theme=dark"/>
 </p>
 
 </td>
 
-<!-- DIREITA -->
-<td width="50%" valign="top" style="padding-left: 25px;">
+<!-- COLUNA DIREITA -->
+<td width="50%" valign="top" style="padding: 16px 0 16px 24px;">
 
-<h3 align="left">Creative space</h3>
+<h2 align="left">Creative space</h2>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma,notion&theme=dark" />
+  <img height="48" src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+  <img height="48" src="https://skillicons.dev/icons?i=notion&theme=dark"/>
 </p>
 
 <br>
@@ -53,10 +62,10 @@
 
 <br>
 
-<h3 align="left">Learning</h3>
+<h2 align="left">Learning</h2>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=pycharm&theme=dark" />
+  <img height="48" src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
 </p>
 
 </td>
