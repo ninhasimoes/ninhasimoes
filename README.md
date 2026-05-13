@@ -5,11 +5,8 @@
 <div align="center">
 
 **`systems student`**
-
 **`artificial intelligence`**
-
 **`backend development`**
-
 
 
 <br/>
