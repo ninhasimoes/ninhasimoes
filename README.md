@@ -12,42 +12,56 @@
 
 
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse; border: none;">
+
 <tr>
+  
+<td width="50%" valign="top" style="padding: 20px 30px 20px 0; border-right: 1px solid #30363d;">
 
-<td width="50%" valign="top" style="border-right:1px solid #2f3545; padding-right:30px;">
+<h2 align="left">Languages</h2>
 
-<h3 align="left">Languages</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
+<br><br><br><br>
 
-<br><br><br>
+<hr style="border: 0.5px solid #30363d;">
 
-<hr>
+<br>
 
-<h3 align="left">Technologies</h3>
+<h2 align="left">Technologies</h2>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
+</p>
 
 </td>
 
-<td width="50%" valign="top" style="padding-left:30px;">
+<td width="50%" valign="top" style="padding: 20px 0 20px 30px;">
 
-<h3 align="left">Creative space</h3>
+<h2 align="left">Creative space</h2>
 
-<img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
+</p>
 
-<br><br><br>
+<br><br><br><br><br><br><br>
 
-<hr>
+<hr style="border: 0.5px solid #30363d;">
 
-<h3 align="left">Learning</h3>
+<br>
 
-<img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
+<h2 align="left">Learning</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
+</p>
 
 </td>
 
 </tr>
+
 </table>
 
 
