@@ -17,18 +17,7 @@ display: grid;
 grid-template-columns: 1fr 1fr;
 gap: 60px;
 width: 100%;
-position: relative;
 ">
-
-<!-- LINHA VERTICAL -->
-<div style="
-position: absolute;
-left: 50%;
-top: 0;
-width: 1px;
-height: 100%;
-background: #2f3545;
-"></div>
 
 <!-- COLUNA ESQUERDA -->
 <div style="
@@ -36,11 +25,12 @@ display: flex;
 flex-direction: column;
 justify-content: space-between;
 padding-right: 40px;
+border-right: 1px solid #2f3545;
 ">
 
 <!-- LANGUAGES -->
-<div>
-<h3 align="left">Languages</h3>
+<div align="left">
+<h3>Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
 </div>
@@ -52,8 +42,8 @@ padding-right: 40px;
 <br>
 
 <!-- TECHNOLOGIES -->
-<div>
-<h3 align="left">Technologies</h3>
+<div align="left">
+<h3>Technologies</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
 </div>
@@ -68,9 +58,9 @@ justify-content: space-between;
 padding-left: 40px;
 ">
 
-<!-- CREATIVE -->
-<div>
-<h3 align="left">Creative space</h3>
+<!-- CREATIVE SPACE -->
+<div align="left">
+<h3>Creative space</h3>
 
 <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
 </div>
@@ -82,8 +72,8 @@ padding-left: 40px;
 <br>
 
 <!-- LEARNING -->
-<div>
-<h3 align="left">Learning</h3>
+<div align="left">
+<h3>Learning</h3>
 
 <img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
 </div>
@@ -91,6 +81,8 @@ padding-left: 40px;
 </div>
 
 </div>
+
+
 ## Contribution Frequency
 
 <p align="center">
