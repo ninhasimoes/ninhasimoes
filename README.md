@@ -12,57 +12,7 @@
 
 
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-
-<tr>
-  
-<td width="50%" valign="top" style="padding: 20px 30px 20px 0; border-right: 1px solid #30363d;">
-
-<h2 align="left">Languages</h2>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
-</p>
-
-<br><br><br><br>
-
-<hr style="border: 0.5px solid #30363d;">
-
-<br>
-
-<h2 align="left">Technologies</h2>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top" style="padding: 20px 0 20px 30px;">
-
-<h2 align="left">Creative space</h2>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark"/>
-</p>
-
-<br><br><br><br><br><br><br>
-
-<hr style="border: 0.5px solid #30363d;">
-
-<br>
-
-<h2 align="left">Learning</h2>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark"/>
-</p>
-
-</td>
-
-</tr>
-
-</table>
+<img width="695" height="553" alt="image" src="https://github.com/user-attachments/assets/7a7ef4fa-33df-4315-8069-a66e47dff185" />
 
 
 ## Contribution Frequency
