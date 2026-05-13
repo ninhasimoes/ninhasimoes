@@ -11,8 +11,59 @@
 **`backend development`**
 
 
+<table width="100%" style="border-collapse: collapse;">
 
-<img width="695" height="553" alt="image" src="https://github.com/user-attachments/assets/7a7ef4fa-33df-4315-8069-a66e47dff185" />
+<tr>
+
+<!-- ESQUERDA -->
+<td width="50%" valign="top" style="padding-right: 25px; border-right: 1px solid #30363d;">
+
+<h3 align="left">Languages</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark" />
+</p>
+
+<br>
+
+<hr style="border: 0.5px solid #30363d;">
+
+<br>
+
+<h3 align="left">Technologies</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+</p>
+
+</td>
+
+<!-- DIREITA -->
+<td width="50%" valign="top" style="padding-left: 25px;">
+
+<h3 align="left">Creative space</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,notion&theme=dark" />
+</p>
+
+<br>
+
+<hr style="border: 0.5px solid #30363d;">
+
+<br>
+
+<h3 align="left">Learning</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pycharm&theme=dark" />
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 
 ## Contribution Frequency
