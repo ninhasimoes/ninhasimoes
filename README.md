@@ -11,20 +11,13 @@
 **`backend development`**
 
 
-<div align="center">
+<<div align="center">
   
-  <h2> Languages & Databases</h2>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark" />
+  <h4>Tech Stack</h4>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,vscode,idea,figma,notion&theme=dark" />
 
-  <br/><br/>
-
-  <h2> Technologies & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,notion&theme=dark" />
-
-  <br/><br/>
-
-  <h2>Currently Learning</h2>
-  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" />
+  <h4> Learning</h4>
+  <img src="https://skillicons.dev/icons?i=python,pycharm&theme=dark" />
 
 </div>
 
